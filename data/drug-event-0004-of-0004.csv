@@ -1,0 +1,46 @@
+safetyreportid,receivedate,serious,reporttype,fulfillexpeditecriteria,occurcountry,reporter_qualification,patientonsetage,patientsex,medicinalproduct,brand_name,manufacturer_name,drugcharacterization,action_taken_with_drug,drugindication,drugdosagetext,reactions,reaction_outcomes
+7538267-3,20110609,1,Unknown,Yes,,Physician,,Female,CLOZARIL,CLOZARIL,"HLS Therapeutics (USA), Inc.",Suspect,Unknown,SCHIZOPHRENIA,"100 MG AM, 175 MG PM",GASTROINTESTINAL DISORDER,Unknown
+7538152-7,20110609,1,Unknown,Yes,,Physician,,Female,CLOZARIL,CLOZARIL,"HLS Therapeutics (USA), Inc.",Suspect,Unknown,SCHIZOPHRENIA,"250 MG, DAILY",DEATH,Unknown
+7527981-1,20110607,1,Unknown,Yes,,Other Health Professional,,Male,CLOZARIL,CLOZARIL,"HLS Therapeutics (USA), Inc.",Suspect,Unknown,,150MG AM+200MG PM,MYOCARDIAL INFARCTION,Unknown
+7527910-0,20110607,1,Unknown,Yes,,Physician,,Male,CLOZARIL,CLOZARIL,"HLS Therapeutics (USA), Inc.",Suspect,Unknown,SCHIZOPHRENIA,,COMPLETED SUICIDE,Unknown
+7527954-9,20110607,1,Unknown,Yes,,Other Health Professional,,Male,CLOZARIL,CLOZARIL,"HLS Therapeutics (USA), Inc.",Suspect,Unknown,,,PYREXIA; DEATH,Unknown; Unknown
+4365410-X,20040520,2,Unknown,No,,Other Health Professional,36,Male,BICILLIN C-R 900/300,BICILLIN C-R 900/300,Pfizer Laboratories Div Pfizer Inc,Suspect,Unknown,SYPHILIS,"2,400,000 UNITS, SINGLE, INTRAMUSCULAR",MEDICATION ERROR,Unknown
+4365408-1,20040520,2,Unknown,No,,Other Health Professional,41,Male,BICILLIN C-R 900/300,BICILLIN C-R 900/300,Pfizer Laboratories Div Pfizer Inc,Suspect,Unknown,SYPHILIS,"2,400,000 UNITS, SINGLE, INTRAMUSCULAR",MEDICATION ERROR,Unknown
+3324953,19990810,1,Spontaneous,No,,Pharmacist,52,Female,BICITRA,,,Concomitant,Unknown,,,Burning sensation; Pain,Unknown; Unknown
+7539179-1,20110610,1,Unknown,Yes,,Other Health Professional,,Female,CLOZARIL,CLOZARIL,"HLS Therapeutics (USA), Inc.",Suspect,Unknown,,,DEATH,Unknown
+7538213-2,20110609,1,Unknown,Yes,,Physician,,Female,CLOZARIL,CLOZARIL,"HLS Therapeutics (USA), Inc.",Suspect,Unknown,,"400 MG, QD",LUNG NEOPLASM MALIGNANT; PNEUMONIA,Unknown; Unknown
+7533349-4,20110608,1,Unknown,Yes,,Unknown,,Unknown,GLEEVEC,GLEEVEC,Novartis Pharmaceuticals Corporation,Suspect,Unknown,,,DEATH,Unknown
+7538225-9,20110609,1,Unknown,Yes,,Unknown,,Unknown,GLEEVEC,GLEEVEC,Novartis Pharmaceuticals Corporation,Suspect,Unknown,,,DEATH,Unknown
+5690564-2,20080401,1,Unknown,Yes,,Physician,58,Female,VALIUM,VALIUM,Roche Laboratories Inc.,Suspect,Unknown,,,ARTERIOSCLEROSIS; DEATH; OEDEMA; PULMONARY CONGESTION,Unknown; Unknown; Unknown; Unknown
+5565275-4,20071218,1,Unknown,Yes,,Consumer or Non-Health Professional,,Male,VERSED,,,Suspect,Unknown,,"THE PATIENT RECEIVED 2 MG, THEN 2 MG AND 1 MG.",CHRONIC HEPATIC FAILURE; COLLAPSE OF LUNG; COMA HEPATIC; LUNG DISORDER; MULTI-ORGAN FAILURE; OVERDOSE; RESPIRATORY FAILURE,Unknown; Unknown; Unknown; Unknown; Unknown; Unknown; Unknown
+7543615-4,20110613,1,Unknown,Yes,,Consumer or Non-Health Professional,,Male,CLOZARIL,CLOZARIL,"HLS Therapeutics (USA), Inc.",Suspect,Unknown,SCHIZOPHRENIA,600MG/DAY,CEREBROVASCULAR ACCIDENT,Unknown
+5689110-9,20080331,1,Unknown,Yes,,Physician,,Unknown,VALIUM,VALIUM,Roche Laboratories Inc.,Suspect,Unknown,CHEST PAIN,,DEATH,Unknown
+7227043-7,20110114,1,Unknown,Yes,,Other Health Professional,,Male,MULTIVITAMIN,INFLAMEX,PureTek Corporation,Concomitant,Unknown,,,CONGENITAL HEARING DISORDER,Unknown
+6023078-0,20081230,2,Unknown,No,,Physician,1,Unknown,CEFDINIR,CEFDINIR,BluePoint Laboratories,Suspect,Unknown,DRUG USE FOR UNKNOWN INDICATION,,HAEMATOCHEZIA; OCCULT BLOOD POSITIVE,Unknown; Unknown
+4675294-8,20050527,1,Unknown,Yes,,Other Health Professional,,Female,TAXOTERE,,,Suspect,Unknown,BREAST CANCER,,ACUTE ABDOMEN; BLOOD PRESSURE DECREASED; CARDIAC ARREST; ENTEROCOLITIS; FATIGUE; FEBRILE NEUTROPENIA; HAEMATEMESIS; INTESTINAL ISCHAEMIA; INTESTINAL OBSTRUCTION; METABOLIC ACIDOSIS; PLATELET COUNT DECREASED,Unknown; Unknown; Unknown; Unknown; Unknown; Unknown; Unknown; Unknown; Unknown; Unknown; Unknown
+6022975-X,20081230,2,Unknown,No,,Physician,,Unknown,CEFDINIR,CEFDINIR,BluePoint Laboratories,Suspect,Unknown,DRUG USE FOR UNKNOWN INDICATION,,FAECES DISCOLOURED,Unknown
+6022966-9,20081230,2,Unknown,No,,Physician,,Unknown,CEFDINIR,CEFDINIR,BluePoint Laboratories,Suspect,Unknown,DRUG USE FOR UNKNOWN INDICATION,,FAECES DISCOLOURED,Unknown
+6022887-1,20081230,2,Unknown,No,,Physician,,Unknown,CEFDINIR,CEFDINIR,BluePoint Laboratories,Suspect,Unknown,DRUG USE FOR UNKNOWN INDICATION,,CLOSTRIDIAL INFECTION,Unknown
+6022971-2,20081230,2,Unknown,No,,Physician,,Unknown,CEFDINIR,CEFDINIR,BluePoint Laboratories,Suspect,Unknown,DRUG USE FOR UNKNOWN INDICATION,,FAECES DISCOLOURED,Unknown
+5841974-1,20080812,1,Unknown,Yes,,Unknown,32,Female,SINGULAIR,SINGULAIR,Organon LLC,Suspect,Unknown,ASTHMA,,ABORTION SPONTANEOUS; DRUG EXPOSURE DURING PREGNANCY,Unknown; Unknown
+6101891-9,20090304,2,Unknown,No,,Physician,,Unknown,CEFDINIR,CEFDINIR,BluePoint Laboratories,Suspect,Unknown,DRUG USE FOR UNKNOWN INDICATION,,FAECES DISCOLOURED,Unknown
+6740596-8,20100525,1,Unknown,Yes,,Unknown,,Male,GLEEVEC,GLEEVEC,Novartis Pharmaceuticals Corporation,Suspect,Unknown,CHRONIC MYELOID LEUKAEMIA,"600 MG, QD",INTENTIONAL OVERDOSE; MENTAL DISORDER,Unknown; Unknown
+7549298-1,20110615,1,Unknown,Yes,,Other Health Professional,58,Male,LESCOL,LESCOL XL,Sandoz Inc,Suspect,Unknown,HYPERCHOLESTEROLAEMIA,80 MG/DAY,LUNG CANCER METASTATIC; FEELING ABNORMAL,Unknown; Unknown
+7539069-4,20110610,1,Unknown,Yes,,Pharmacist,,Male,CLOZARIL,CLOZARIL,"HLS Therapeutics (USA), Inc.",Suspect,Unknown,SCHIZOPHRENIA,300MG/DAY,DEATH,Unknown
+7538261-2,20110609,1,Unknown,Yes,,Physician,,Female,CLOZARIL,CLOZARIL,"HLS Therapeutics (USA), Inc.",Suspect,Unknown,SCHIZOPHRENIA,UNK,CARDIOVASCULAR DISORDER,Unknown
+7543715-9,20110613,1,Unknown,Yes,,Pharmacist,,Male,CLOZARIL,CLOZARIL,"HLS Therapeutics (USA), Inc.",Suspect,Unknown,,"525 MG, QD",ALCOHOL ABUSE; PSYCHOTIC DISORDER; CELLULITIS; DEATH; ANXIETY; ASPIRATION; AGGRESSION,Unknown; Unknown; Unknown; Unknown; Unknown; Unknown; Unknown
+7527928-8,20110607,1,Unknown,Yes,,Consumer or Non-Health Professional,,Male,CLOZARIL,CLOZARIL,"HLS Therapeutics (USA), Inc.",Suspect,Unknown,SCHIZOPHRENIA,400 MG/DAY,HYPERTHYROIDISM,Unknown
+7533299-3,20110608,1,Unknown,Yes,,Physician,,Unknown,GLEEVEC,GLEEVEC,Novartis Pharmaceuticals Corporation,Suspect,Unknown,,,DEATH,Unknown
+7538131-X,20110609,1,Unknown,Yes,,Physician,,Male,CLOZARIL,CLOZARIL,"HLS Therapeutics (USA), Inc.",Suspect,Unknown,,UNKNOWN,NEOPLASM MALIGNANT,Unknown
+5690331-X,20080401,1,Unknown,Yes,,Other Health Professional,46,Unknown,VALIUM,VALIUM,Roche Laboratories Inc.,Suspect,Unknown,DRUG USE FOR UNKNOWN INDICATION,,DEATH,Unknown
+5684881-X,20080328,1,Unknown,Yes,,Physician,69,Female,ROCEPHIN,,,Suspect,Unknown,,,ANAPHYLACTIC SHOCK; COMA; DEATH,Unknown; Unknown; Unknown
+7065059-4,20101027,1,Unknown,Yes,,Physician,,Male,VALIUM,VALIUM,Roche Laboratories Inc.,Suspect,Unknown,,,BRAIN NEOPLASM; CYANOSIS; GANGRENE; INJECTION SITE REACTION; PAIN IN EXTREMITY,Unknown; Unknown; Unknown; Unknown; Unknown
+4543918-1,20050103,1,Unknown,Yes,,Other Health Professional,53,Female,METOCLOPRAMIDE,METOCLOPRAMIDE,"Teva Parenteral Medicines, Inc.",Suspect,Unknown,,10 MG/DAY,HYPOTENSION,Unknown
+4392070-4,20040708,1,Unknown,Yes,,Physician,32,Female,GLEEVEC,GLEEVEC,Novartis Pharmaceuticals Corporation,Suspect,Unknown,BLAST CRISIS IN MYELOGENOUS LEUKAEMIA,"200 MG, TID",BLAST CRISIS IN MYELOGENOUS LEUKAEMIA; DRUG INEFFECTIVE; FACE OEDEMA; GENERALISED OEDEMA; MACULAR OEDEMA; THERAPEUTIC RESPONSE DECREASED; VISION BLURRED; VISUAL ACUITY REDUCED,Unknown; Unknown; Unknown; Unknown; Unknown; Unknown; Unknown; Unknown
+4405577-8,20040723,2,Unknown,No,,Consumer or Non-Health Professional,47,Male,AVANDIA,,,Suspect,Unknown,,8MG PER DAY,HYPERGLYCAEMIA; WEIGHT INCREASED,Unknown; Unknown
+4418193-9,20040809,2,Unknown,No,,Consumer or Non-Health Professional,22,Female,PAXIL CR,PAXIL CR,Apotex Corp,Suspect,Unknown,DEPRESSION,25MG PER DAY,SUNBURN,Unknown
+4449775-6,20040802,1,Unknown,No,,Other Health Professional,67,Male,MAGNEVIST,,,Suspect,Unknown,NUCLEAR MAGNETIC RESONANCE IMAGING,"20 ML, 1 DOSE, INTRAVENOUS",ASTHMA,Unknown
+4414737-1,20040804,2,Unknown,No,,Consumer or Non-Health Professional,,Male,GLUCOVANCE,,,Suspect,Unknown,,,BLOOD GLUCOSE DECREASED,Unknown
+4496535-6,20040923,1,Unknown,No,,Physician,7,Unknown,ZYRTEC,ZYRTEC,Kenvue Brands LLC,Suspect,Unknown,ILL-DEFINED DISORDER,ORAL,AGGRESSION,Unknown
+4496566-6,20040923,1,Unknown,No,,Other Health Professional,4,Male,ZYRTEC,ZYRTEC,Kenvue Brands LLC,Suspect,Unknown,HYPERSENSITIVITY,"1 MG (DAILY), ORAL",MUSCLE TWITCHING,Unknown
+5753201-4,20080527,1,Unknown,Yes,,Other Health Professional,12,Female,AVONEX,AVONEX,Biogen Inc.,Suspect,Unknown,MULTIPLE SCLEROSIS,30 UG;QW;IM,AUTOIMMUNE HEPATITIS,Unknown
