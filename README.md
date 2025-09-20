@@ -129,7 +129,8 @@ SELECT AI.GENERATE_DOUBLE(
 ).result
 ```
 
-#### Action Plan Generation (`AI.GENERATE_TABLE`)```sql
+#### Action Plan Generation (`AI.GENERATE_TABLE`)
+```sql
 SELECT * FROM AI.GENERATE_TABLE(
   MODEL `project.dataset.clinical_knowledge_integrity`,
   (SELECT "Generate a departmental action plan for the warfarin alert..."),
